@@ -1,8 +1,8 @@
-# 🚀 Data Portfolio
+# 📊 Data Portfolio
 
 A tour of analysis projects traversing transportation, coffee, with more coming soon.
 
-### 📊 Projects
+### 🗂️ Projects
 
 - **[Recreation vs Transportation: A tale of two bike share users](link)** — A presentation and analysis of usage differences in the Chicago bikeshare system. `SQL` `Excel` `PowerPoint`
 - **[Household Coffee Bean Visualization](link)** — A dynamic coffee bean consumer dashboard informing our househould brewing enjoyment. `Tableau` `Google Sheets`
