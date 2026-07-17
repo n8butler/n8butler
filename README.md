@@ -1,6 +1,6 @@
 # 📊 Data Portfolio
 
-A tour of analysis projects traversing transportation, coffee, with more coming soon.
+This is a tour of analysis projects traversing transportation, coffee, with more coming soon.
 
 ### 🗂️ Projects
 
