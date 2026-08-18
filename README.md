@@ -4,7 +4,7 @@ This is a tour of analysis projects traversing transportation, coffee, with more
 
 ### 🗂️ Projects
 
-- **[Recreation vs Transportation: A tale of two bike share users](link)** — A presentation and analysis of usage differences in the Chicago bikeshare system. `SQL` `Excel` `PowerPoint`
+- **[Recreation vs Transportation: A tale of two bike share users](https://github.com/n8butler/bike-share-commuter-vs-casual-2025)** — A presentation and analysis of usage differences in the Chicago bikeshare system. `SQL` `Excel` `PowerPoint`
 - **[Household Coffee Bean Visualization](link)** — A dynamic coffee bean consumer dashboard informing our househould brewing enjoyment. `Tableau` `Google Sheets`
 - **[Hario V60 Single Cup Method](link)** — A one pager for the experienced pour-over coffee guru. `PowerPoint`
 
