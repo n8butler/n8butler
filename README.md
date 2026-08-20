@@ -10,7 +10,8 @@ This is a tour of analysis projects traversing transportation, coffee, with more
 
 ### 🔍 Areas of Focus
 
--Storytelling and visualization
+- **[Storytelling](link)**
+- **[Visualization](link)**
 
 ### 🛠️ Tools & Technologies
 
