@@ -19,7 +19,7 @@ This is a tour of analysis projects traversing transportation, coffee, with more
 - **Tableau**
 
 ### 📬 Contact
-- **[LinkedIn](https://www.linkedin.com/in/n8btlr/)** — Please message me
+- **[Connect on LinkedIn](https://www.linkedin.com/in/n8btlr/)**
 <!--
 **n8butler/n8butler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
